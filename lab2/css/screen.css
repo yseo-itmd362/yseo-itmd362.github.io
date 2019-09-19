@@ -32,7 +32,7 @@
   #shape {
     border-radius: 10px;
     background-color: #BE81F7;
-    align: center;
+    transform: translate;
   }
   
   label {
