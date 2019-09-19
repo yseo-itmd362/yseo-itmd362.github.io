@@ -11,16 +11,25 @@
       background-color: #F2F3F4;
       text-align: center;
   }
+
   input {
       width: 50%;
       padding: 10px 15px;
       margin: 10px;
       display: inline-block;
   }
+
   #safe{
       background-color: #566573;
       display: inline-block;
       font-size: 15px;
+  }
+
+  #Echeck{
+      background-color: white;
+      border-color: #9A2EFE;
+      display: inline-block;
+      border-radius: 10px;
   }
 }
   
@@ -46,5 +55,12 @@
       background-color: #566573;
       display: inline-block;
       font-size: 10px;
+  }
+
+  #Echeck{
+      background-color: white;
+      border-color: #9A2EFE;
+      display: inline-block;
+      border-radius: 10px;
   }
 }
