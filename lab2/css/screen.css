@@ -8,11 +8,6 @@
       color: #FFFFFF;
       font-weight: 800;
   }
-  
-  #info {
-      background-color: #F2F3F4;
-      text-align: center;
-  }
 
   input {
       width: 50%;
@@ -43,6 +38,10 @@
   
 /*For Desktop*/
 @media only screen and (max-width: 992px) {
+  
+  body {
+    background-color: #9A2EFE;
+  }
   h2 {
       font-size: 50px;
       padding-top:4%;
@@ -51,10 +50,7 @@
       font-weight: 700;
       color: #FFFFFF;
   }
-  #info {
-      background-color: #F2F3F4;
-      text-align: center;
-  }
+
   input {
       width: 40%;
       padding: 10px 20px;
