@@ -5,6 +5,7 @@
       padding-top:1%;
       padding-bottom:2%;
       text-align: center;
+      color: #8000FF;
   }
   
   #info {
@@ -26,7 +27,7 @@
   }
 
   #Echeck{
-      background-color: #F8EFFB;
+      background-color: white;
       border-color: #9A2EFE;
       display: inline-block;
       border-radius: 10px;
@@ -40,6 +41,7 @@
       padding-top:4%;
       padding-bottom:2%;
       text-align: center;
+      color: #8000FF
   }
   #form_body {
       background-color: #F2F3F4;
@@ -58,7 +60,7 @@
   }
 
   #Echeck{
-      background-color: #F8EFFB;
+      background-color: white;
       border-color: #9A2EFE;
       display: inline-block;
       border-radius: 10px;
