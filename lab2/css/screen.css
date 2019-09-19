@@ -1,12 +1,12 @@
 /*For mobile*/
 @media screen and (min-width: 480px) {
   h2 {
-      font-size: 50px;
+      font-size: 40px;
       padding-top:1%;
       padding-bottom:2%;
       text-align: center;
       color: #FFFFFF;
-      font-weight: 700;
+      font-weight: 800;
   }
   
   #info {
@@ -23,9 +23,9 @@
   }
 
   #safe{
-      background-color: #566573;
+      background-color: #E3CEF6;
       display: inline-block;
-      font-size: 15px;
+      font-size: 50%;
   }
 
   #Echeck{
@@ -63,7 +63,7 @@
       font-size: 24px;
   }
   #safe{
-      background-color: #566573;
+      background-color: #E3CEF6;
       display: inline-block;
       font-size: 10px;
       width: 100%;
