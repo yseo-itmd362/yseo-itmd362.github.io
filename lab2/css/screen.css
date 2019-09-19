@@ -6,6 +6,7 @@
       padding-bottom:2%;
       text-align: center;
       color: #FFFFFF;
+      font-weight: 700;
   }
   
   #info {
@@ -18,6 +19,7 @@
       padding: 10px 15px;
       margin: 10px;
       display: inline-block;
+      font-size: 22px;
   }
 
   #safe{
@@ -30,6 +32,7 @@
       background-color: #E3CEF6;
       display: inline-block;
       border-radius: 10px;
+      width: 40px;
   }
   
   #shape {
@@ -40,12 +43,13 @@
   
 /*For Desktop*/
 @media only screen and (max-width: 992px) {
-  h1 {
+  h2 {
       font-size: 50px;
       padding-top:4%;
       padding-bottom:2%;
       text-align: center;
-      color: #FFFFFF
+      font-weight: 700;
+      color: #FFFFFF;
   }
   #info {
       background-color: #F2F3F4;
@@ -56,11 +60,13 @@
       padding: 10px 20px;
       margin: 10px;
       display: inline-block;
+      font-size: 24px;
   }
   #safe{
       background-color: #566573;
       display: inline-block;
       font-size: 10px;
+      width: 100%;
   }
 
   #Echeck{
