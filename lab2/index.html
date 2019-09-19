@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" class="nojs">
+<head>
+  <title>Lab 2</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
+  <link rel="stylesheet" media="screen" href="css/reset.css" />
+  <link rel="stylesheet" media="screen" href="css/screen.css" />
+  <script type="text/javascript">
+  function checkEmail() {
+	var content = info.email.value;
+	var result = content.indexOf("@");
+	if (result == -1)
+		alert("E-mail form is wrong");
+	  }
+  </script>
+
+</head>
+<body>
+<form name="info">
+<div id = "shape">
+<h2>User Information</h2>
+<label for = "email">E-mail <input type="text" id = "email"></label>
+<input type = "button" value = "check" id = "Echeck" onClick = "checkEmail()">
+<label for = "phone">Phone number <input type = "text" id = "phone" size = "15">
+<br><br>
+	<label for = "birth">Date of Birth <input type = "date" id = "birth"></label>
+<br><br>
+<input type = "button" value = "submit" id = "safe" onClick = 'alert("Your information is successfully save!")'>
+</div>
+</form>
+</body>
+</html>
