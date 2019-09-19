@@ -32,7 +32,7 @@
   #shape {
     border-radius: 10px;
     background-color: #BE81F7;
-    transform: translate;
+    transform: translate(-50%, -50%);
   }
   
   label {
@@ -46,6 +46,7 @@
   
   body {
     background-color: #BE81F7;
+    transform: translate(-50%, -50%);
   }
   h2 {
       font-size: 50px;
