@@ -12,7 +12,7 @@
   input {
       width: 40%;
       padding: 10px 15px;
-      margin: 10px;
+      margin: auto;
       display: inline-block;
       font-size: 22px;
   }
@@ -21,6 +21,7 @@
     background-color: #E3CEF6;
     display: inline-block;
     border-radius: 10px;
+    margin: auto;
   }
 
   #Echeck{
