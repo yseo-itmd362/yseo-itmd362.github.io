@@ -6,11 +6,11 @@
       padding-bottom:2%;
       text-align: center;
       color: #FFFFFF;
-      font-weight: 800;
+      font-weight: bold;
   }
 
   input {
-      width: 50%;
+      width: 40%;
       padding: 10px 15px;
       margin: 10px;
       display: inline-block;
@@ -18,15 +18,16 @@
   }
 
   #safe{
-      background-color: #E3CEF6;
-      display: inline-block;
+    background-color: #E3CEF6;
+    display: inline-block;
+    border-radius: 10px;
   }
 
   #Echeck{
       background-color: #E3CEF6;
       display: inline-block;
       border-radius: 10px;
-      width: 100px;
+      width: 10%;
   }
   
   #shape {
@@ -35,7 +36,7 @@
   }
   
   label {
-    font-weight: 800;
+    font-weight: bold;
     font-size: 20px;
     text-align: center;
   }
@@ -58,7 +59,7 @@
   }
 
   input {
-      width: 100%;
+      width: 80%;
       padding: 10px 20px;
       margin: 10px;
       display: inline-block;
@@ -67,13 +68,13 @@
   #safe{
       background-color: #E3CEF6;
       display: inline-block;
-      width: 100%;
+      width: 80%;
   }
 
   #Echeck{
       background-color: #E3CEF6;
       display: inline-block;
       border-radius: 10px;
-      width: 100%;
+      width: 50%;
   }
 }
