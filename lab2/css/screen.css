@@ -18,17 +18,24 @@
   }
 
   #safe{
-    background-color: #E3CEF6;
+    background-color: white;
     display: inline-block;
     border-radius: 10px;
-    margin: auto;
+    margin: 5px;
+    pedding: 5px;
+    border: 2px solid #E3CEF6;
+    width: 50%;
+
   }
 
   #Echeck{
-      background-color: #E3CEF6;
-      display: inline-block;
-      border-radius: 10px;
-      width: 10%;
+    background-color: white;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 5px;
+    pedding: 5px;
+    border: 2px solid #E3CEF6;
+    width: 10%;
   }
   
   #shape {
@@ -67,17 +74,22 @@
       font-size: 24px;
   }
   #safe{
-      background-color: #E3CEF6;
-      display: inline-block;
-      width: 80%;
-    margin: auto;
+    background-color: white;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 5px;
+    pedding: 5px;
+    border: 2px solid #E3CEF6;
+    width: 80%
   }
 
   #Echeck{
-      background-color: #E3CEF6;
-      display: inline-block;
-      border-radius: 10px;
-      width: 50%;
-    margin: auto;
+    background-color: white;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 5px;
+    pedding: 5px;
+    border: 2px solid #E3CEF6;
+    width: 80%;
   }
 }
