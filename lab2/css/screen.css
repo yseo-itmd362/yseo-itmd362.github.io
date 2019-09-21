@@ -6,7 +6,6 @@
       padding-bottom:2%;
       text-align: center;
       color: #FFFFFF;
-      font-weight: bold;
   }
 
   input {
@@ -47,6 +46,7 @@
     font-weight: bold;
     font-size: 20px;
     text-align: center;
+    color: white;
   }
   
 }
