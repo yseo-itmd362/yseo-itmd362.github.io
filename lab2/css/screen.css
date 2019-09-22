@@ -37,6 +37,7 @@
   }
   
   #shape {
+    padding-top: 1%;
     border-radius: 10px;
     background-color: #BE81F7;
     color: white;
