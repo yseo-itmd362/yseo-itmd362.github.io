@@ -1,5 +1,5 @@
 /*For Desktop*/
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 768px) {
   h2 {
       font-size: 40px;
       padding-top:1%;
