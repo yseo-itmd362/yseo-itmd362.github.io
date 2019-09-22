@@ -11,31 +11,30 @@
   input {
       width: 40%;
       padding-top:1%;
-      margin: 5px;;
+      margin: 10px;
       display: inline-block;
       font-size: 15px;
     border-radius: 10px;
+    border: 2px solid #E3CEF6;
   }
 
   #safe{
     background-color: white;
     display: inline-block;
-    border-radius: 10px;
-    margin: 5px;
+    margin: 10px;
     border: 2px solid #E3CEF6;
     width: 50%;
-    padding-bottom: 25px;
+    padding: 5px;
 
   }
 
   #Echeck{
     background-color: white;
     display: inline-block;
-    border-radius: 10px;
     margin: 5px;
-   
     border: 2px solid #E3CEF6;
     width: 20%;
+    padding: 5px;
   }
   
   #shape {
@@ -79,7 +78,8 @@
     border-radius: 10px;
     margin: 5px;
     border: 2px solid #E3CEF6;
-    width: 50%
+    width: 50%;
+    padding: 10px;
   }
 
   #Echeck{
@@ -89,6 +89,7 @@
     margin: 5px;
     border: 2px solid #E3CEF6;
     width: 50%;
+    padding: 10px;
   }
   #shape {
     margin: auto;
