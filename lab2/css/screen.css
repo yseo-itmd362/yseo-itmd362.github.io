@@ -49,7 +49,7 @@
 }
   
 /*For Mobile*/
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 480px) {
   
   body {
     background-color: #BE81F7;
