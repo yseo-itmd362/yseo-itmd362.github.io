@@ -61,17 +61,16 @@
       padding-top:4%;
       padding-bottom:2%;
       text-align: center;
-      font-weight: 700;
       color: #FFFFFF;
   }
 
   input {
-      width: 50%;
+      width: 100%;
       padding-top:1%;
       padding-bottom:2%;
       margin: 5px;
       display: inline-block;
-      font-size: 21px;
+      font-size: 19px;
   }
   #safe{
     background-color: white;
