@@ -33,7 +33,7 @@
 
   input {
       width: 60%;
-      padding-top:1%;
+      padding-top:2%;
       margin: 10px;
       display: inline-block;
       font-size: 18px;
@@ -73,7 +73,7 @@
   }
   
   div {
-    padding-top: 1%;
+    padding-top: 10px;
     padding-bottom: 10px;
   }
   
@@ -97,9 +97,9 @@
       width: 40%;
       padding-top:1%;
       padding-bottom: 1%;
-      margin: 5px;
+      margin: 3px;
       display: inline-block;
-      font-size: 19px;
+      font-size: 15px;
       border-radius: 10px;
       border: 3px solid #F5ECCE;
       -webkit-transition: 0.5s;
@@ -117,7 +117,7 @@
     border-radius: 10px;
     margin: 5px;
     border: 2px solid #FACC2E;
-    width: 50%;
+    width: 40%;
     padding: 5px;
   }
 
