@@ -9,22 +9,28 @@
   <link rel="stylesheet" media="screen" href="css/screen.css" />
 </head>
 <body>
-<form name="info">
-<div id = "shape">
+<form method="POST">
+	
+<div id = "sign">
+	
   <h2>Welcom to eBooks World</h2>
   <h3>Sign up & Save</h3>
-	<div>
+	
+  <div>
     <label for = "email">
       E-mail 
   </div>
+	  
   <div>
     <input type="email" id = "email">
     </label>
   </div>
 	
-  <div><label for = "phone">
+  <div>
+   <label for = "phone">
     Phone number 
   </div>
+	  
   <div>
     <input type = "text" id = "phone" size = "15">
     </label>
@@ -32,10 +38,13 @@
 	<div><label for = "birth">
     Date of Birth
   </div>
+		
   <div><input type = "date" id = "birth">
     </label>
   </div>
+	
   <div><input type = "button" value = "submit" id = "safe" onClick = 'alert("Your information is successfully save!")'></div>
+	
 </div>
 </form>
 </body>
