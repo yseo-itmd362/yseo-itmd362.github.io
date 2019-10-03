@@ -2,9 +2,14 @@
 @media only screen and (min-width: 0px) {
   
   body {
-    background-color: #F5ECCE;
+    background-color: #F5DA81;
     text-align: center;
+    color: #FFFFFF;
     
+  }
+  
+  div {
+    padding-bottom: 1%;
   }
   
   h2 {
@@ -58,9 +63,14 @@
 @media only screen and (min-width: 768px) {
   
    body {
-    background-color: #F5ECCE;
+    background-color: #F5DA81;
     text-align: center;
+    color: #FFFFFF;
     
+  }
+  
+  div {
+    padding-bottom: 1%;
   }
   
   h2 {
