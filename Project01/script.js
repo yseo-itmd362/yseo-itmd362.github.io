@@ -1,3 +1,4 @@
 function myAccount() {
-    document.getElementById("safe").innerHTML = "Thank you for join with us";
+    alert("Thank you for join with us!");
+    return false;
 }
