@@ -227,11 +227,6 @@ input {
    padding: 20px;
 }
 
-input[type=email] {
-   box-shadow: 2px 5px;
-   width: 35%;
-}
-
 input[type=submit] {
    font-family: 'Heebo', 'Asap', sans-serif;
    font-size: 24px;
