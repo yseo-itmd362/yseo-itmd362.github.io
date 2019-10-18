@@ -205,8 +205,8 @@ label {
   display: block;
 }
 
-.content {
-  margin: auto;
+#content {
+  align-content: center;
 }
 
 h1 {
