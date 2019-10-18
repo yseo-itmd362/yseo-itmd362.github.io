@@ -203,6 +203,7 @@ html {
 
 label {
   display: block;
+  padding: 25px;
 }
 
 main {
@@ -218,6 +219,7 @@ h1 {
 
 p {
    font-size: 1.3em;
+   padding: 30px;
 }
 
 input[type=submit] {
