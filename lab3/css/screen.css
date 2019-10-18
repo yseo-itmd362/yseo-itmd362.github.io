@@ -222,6 +222,10 @@ p {
    padding: 30px;
 }
 
+input {
+   padding: 20px;
+}
+
 input[type=submit] {
    font-family: 'Heebo', 'Asap', sans-serif;
    font-size: 24px;
