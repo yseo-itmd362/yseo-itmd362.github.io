@@ -228,6 +228,7 @@ input[type=submit] {
    border: 2px solid white;
    -webkit-transition-duration: 0.4s; 
    transition-duration: 0.4s;
+   padding: 40px 14px;
 }
 
 input[type=submit]:hover {
