@@ -205,7 +205,7 @@ label {
   display: block;
 }
 
-#content {
+main {
   align-content: center;
   text-align: center;
 }
@@ -217,7 +217,7 @@ h1 {
 }
 
 p {
-   font-size: 1.6em;
+   font-size: 1.3em;
 }
 
 #input-submit {
