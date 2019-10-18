@@ -197,7 +197,6 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   background-color: #585858;
-  color: #FFFFFF;
   font-family: 'Heebo', 'Asap', sans-serif;
 }
 
@@ -207,6 +206,7 @@ label {
 
 #content {
   align-content: center;
+  font-color: #FFFFFF;
 }
 
 h1 {
