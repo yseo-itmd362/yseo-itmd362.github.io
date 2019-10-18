@@ -219,7 +219,7 @@ p {
    font-size: 2em;
 }
 
-.input-submit {
+#input-submit {
    font-size: 24px;
    padding: 14px 40px;
    background-color: #585858;
@@ -229,7 +229,7 @@ p {
    transition-duration: 0.4s;
 }
 
-.input-submit:hover {
+#input-submit:hover {
    background-color: white;
    color: black;
    
