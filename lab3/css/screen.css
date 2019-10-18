@@ -197,7 +197,7 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   background-color: #585858;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
   font-family: 'Heebo', 'Asap', sans-serif;
 }
 
