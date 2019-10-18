@@ -206,7 +206,7 @@ label {
 }
 
 .content {
-  align-content: center;
+  margin: auto;
 }
 
 h1 {
